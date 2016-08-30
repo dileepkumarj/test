@@ -2,7 +2,7 @@
 <html>
    <head>
       <title>Data Binding</title>
-      <script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+      <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.33.3/es6-shim.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.19.20/system-polyfills.js"></script>
       <script src="https://code.angularjs.org/2.0.0-beta.6/angular2-polyfills.js"></script>
